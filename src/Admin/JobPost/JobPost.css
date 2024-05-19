@@ -1,0 +1,48 @@
+.jpost-main{
+    display: flex;
+    flex-direction: column;
+    min-height: max-content;
+    width: 90%;
+    background: #8EDACA;
+    margin-top: 5%;
+    margin-left: -5%;
+    padding: 5%;
+    border-radius: 2rem;
+
+}
+.jpost{
+    display: flex;
+    margin-top: 5%;
+
+}
+.jpost-title{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: xx-large;
+}
+.jpost-fields{
+    margin-top: 5%;
+    display: flex;
+    flex-direction: column;
+}
+.jpost-inner{
+    margin-top: 4rem;
+    display: flex;
+    flex-direction: row;
+   
+}
+.text-sm{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 700;
+    font-size: larger;
+}
+input{
+    margin-left: 4rem;
+    padding:5px;
+}
+.postb{
+    min-width: 5rem;
+    background-color: white;
+    padding: 4px;
+    margin-left: 10rem;
+    margin-top: 4rem;
+}

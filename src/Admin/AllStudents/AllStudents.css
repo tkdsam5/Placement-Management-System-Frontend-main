@@ -1,0 +1,67 @@
+.allstudents-main{
+    display: flex;
+    flex-direction: column;
+    min-height: max-content;
+    width: 90%;
+    background: #8EDACA;
+    margin-top: 5%;
+    margin-left: -5%;
+    padding: 5%;
+    border-radius: 2rem;
+    
+}
+.sfilters{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin-top: 2.5%;
+}
+.stud{
+    display: flex;
+    flex-direction: column;
+    background: rgba(255, 255, 255, 0.9);
+border-radius: 10px;
+margin-top: 4rem;
+padding: 4px;
+
+}
+.stud1{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    margin-top: 1.5rem;
+    
+
+}
+p{
+    display: flex;
+    flex-direction: row;
+    margin-left: 6rem;
+    justify-content: space-between;
+}
+.sname{
+    font-weight: 500;
+}
+.sp{
+   font-weight: 500;
+   margin-left: 0.5rem;
+}
+input{
+    margin-left: 1.5rem;
+    padding: 4px;
+}
+.scontact{
+    margin-left: 3.7rem;
+}
+  .viewp{
+    padding:2.5px;
+    background-color:  #EAFFEE;
+    margin-left: 0.5rem;
+    height: fit-content;
+    width:5rem;
+    margin-top: -4rem;
+}
+Link{
+    color: black;
+    font-weight: 200;
+}

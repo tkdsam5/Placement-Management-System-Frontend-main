@@ -1,0 +1,47 @@
+.intexp-main{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+width: 100%;
+min-height:max-content;
+margin-left: -10%;
+margin-top: 2.5%;
+
+}
+.intexp-post{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    background:linear-gradient(180deg, rgba(202, 33, 33, 0.984) 30.34%, #e04242 55.94%);
+border-radius: 2rem;
+padding: 2rem;
+}
+.int-h11{
+    margin-left: -2%;
+}
+
+.intexp-det{
+    
+        display: flex;
+        flex-direction: column;
+        background:linear-gradient(180deg, rgba(213, 59, 59, 0.984) 5.34%, #e04242 95.94%);
+    border-radius: 2rem;
+    padding: 2rem;
+    margin-top: 5%;
+    
+
+}
+.int-h1{
+    margin-top: 5%;
+}
+.int-li{
+    display: flex;
+    flex-direction: column;
+    margin-top: 2rem;
+    background-color: #FFFF;
+    padding: 2rem;
+    width:max-content;
+}
+.int-dd{
+    display: flex;
+}
